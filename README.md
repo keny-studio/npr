@@ -1,2 +1,2 @@
 # npr
-Not Programming Related - self-explanatory I think
+## $${\color{red}Not \space Programming \space Related}$$ - self-explanatory I think
