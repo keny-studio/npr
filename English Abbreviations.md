@@ -17,6 +17,7 @@
 | DRY | Don't repeat yourself |
 | E.G. | Exampli Gratia - For example |
 | E.I. | Id Est - That Is / To Specify |
+| EOL | End of Life |
 | EOS | Employee Opinion Survey |
 | ETA | Estimated Time of Arrival |
 | FAQ | Frequently Asked Questions |
