@@ -64,6 +64,7 @@
 | TBA | To Be Announced |
 | TBD | To be determined |
 | TGIF | Thank God it’s Friday |
+| TIL | Today I Learned |
 | TLA | three-letter abbreviation |
 | TLDR | too long; didn't read |
 | W8 | wait |
