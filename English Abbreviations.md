@@ -19,6 +19,7 @@
 | E.I. | Id Est - That Is / To Specify |
 | EOL | End of Life |
 | EOS | Employee Opinion Survey |
+| EOY | End Of Year |
 | ETA | Estimated Time of Arrival |
 | FAQ | Frequently Asked Questions |
 | FAWC | For anyone who cares |
