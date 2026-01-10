@@ -3,11 +3,13 @@
 | | |
 | ABBREVIATION | MEANING |
 | | |
+| AFK | away from keyboard |
 | AFAIK | as far as I know |
 | AKA | also know as |
 | ASAP | as soon as possible |
 | BBL | Be back later |
 | BFN | Bye for now |
+| BRB | be right back |
 | BTW | By the way |
 | CHW | Community Health Worker |
 | DBMIB | Don't bother me, I'm busy |
