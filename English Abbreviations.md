@@ -7,6 +7,7 @@
 | AFAIK | as far as I know |
 | AKA | also know as |
 | ASAP | as soon as possible |
+| ATM | at the moment |
 | BBL | Be back later |
 | BFN | Bye for now |
 | BRB | be right back |
