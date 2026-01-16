@@ -78,3 +78,4 @@
 | WTG | Way to go |
 | WYSIWYG | what you see is what you get |
 | YGTR | You got that right |
+| YSK | You should know |
