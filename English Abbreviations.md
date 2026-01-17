@@ -64,6 +64,7 @@
 | QA | Quality Assurance |
 | QQ | Quick question |
 | RIP | rest in peace |
+| RN | right now |
 | SUDO | SuperUser Do |
 | TBA | To Be Announced |
 | TBD | To be determined |
