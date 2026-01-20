@@ -47,6 +47,7 @@
 | LGTM | Look Good To Me |
 | LTD | limited |
 | LOL | Laughing out loud |
+| NB | Nota Bene - note well |
 | NP | No problem |
 | NVM | never mind |
 | OA | open access |
