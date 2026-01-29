@@ -41,6 +41,7 @@
 | IMO | in my opinion |
 | IQ | Intelligence Quotient |
 | IRL | In Real Life |
+| ITT | I Think That |
 | IYKYK | If you know, you know |
 | J4F | Just for fun |
 | JK | Just Joking |
