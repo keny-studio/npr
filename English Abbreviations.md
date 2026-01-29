@@ -31,6 +31,7 @@
 | FWIW | For what it's worth |
 | FYI | for your information |
 | GMTA | Greate minds think alike |
+| HUD | How You Doing |
 | ICYMI | In case you missed it |
 | ID | Identification |
 | IDC | I don't care |
