@@ -75,6 +75,7 @@
 | TIL | Today I Learned |
 | TLA | three-letter abbreviation |
 | TLDR | too long; didn't read |
+| TMI | too much information |
 | W8 | wait |
 | WFH | Working from home |
 | WIP | Work In Progress |
