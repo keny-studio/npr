@@ -82,5 +82,6 @@
 | WTF | What the fuck! |
 | WTG | Way to go |
 | WYSIWYG | what you see is what you get |
+| XOXO | hugs and kisses |
 | YGTR | You got that right |
 | YSK | You should know |
