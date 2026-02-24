@@ -47,6 +47,7 @@
 | JK | Just Joking |
 | JOMO | Joy of missing out |
 | LGTM | Look Good To Me |
+| LMK | let me know |
 | LTD | limited |
 | LOL | Laughing out loud |
 | NB | Nota Bene - note well |
